@@ -1,0 +1,15 @@
+{
+  "APP_NAME": "Shopping Lite",
+  "DEFAULT_TITLE": "Shopping lite",
+  "DEFAULT_META_DESCRIPTION": "Shopping lite meta",
+  "PUBLIC.HOME.PAGE_TITLE": "Home page",
+  "PUBLIC.HOME.META_DESCRIPTION": "Welcome to Homepage",
+  "PUBLIC.ABOUT.PAGE_TITLE": "About",
+  "PUBLIC.ABOUT.META_DESCRIPTION": "About us page meta",
+  "PUBLIC.ABOUT_US.PAGE_TITLE": "Us",
+  "PUBLIC.ABOUT_US.META_DESCRIPTION": "Yeah, I think this page tells something about us",
+  "PUBLIC.ABOUT_BANANA.PAGE_TITLE": "Banana republic",
+  "PUBLIC.ABOUT_BANANA.META_DESCRIPTION": "If your life sucks, start a new one in Banana Republic",
+  "PUBLIC.ABOUT_APPLE_PEAR.PAGE_TITLE": "Apple or pear",
+  "PUBLIC.ABOUT_APPLE_PEAR.META_DESCRIPTION": "I want an apple but you give me a pear, shame on you"
+}
